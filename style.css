@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(210, 221, 230);
+}
+
+.head{
+    display: flex;
+    text-align: center;
+}
+
+.right>h2{
+    color: darkred;
+}
+.left>h2{
+    color: darkred;
+}
+.right>a{
+    text-decoration: none;
+}
+.right>a:hover{
+    color: brown;
+}
+
